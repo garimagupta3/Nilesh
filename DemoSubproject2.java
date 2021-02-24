@@ -26,6 +26,12 @@ public class DemoSubproject2 {
 	
 	public static int getIntValue() {
 	int k = 58; 
+		
+	iny y=20;
+        int j=30;
+        int k=y+j;
+       System.out.println("k"); 
+		
 	return k;	
 	}
 	
