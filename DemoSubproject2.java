@@ -32,7 +32,7 @@ public class DemoSubproject2 {
 	
 	public void x(){
 		System.out.println("text");
-		System.out.println("no");
+		System.out.println("not");
 	}
 	
 }
