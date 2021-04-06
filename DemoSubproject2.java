@@ -25,18 +25,13 @@ public class DemoSubproject2 {
 	
 	public static int getIntValue() {
 	int k = 58; 
+		
 	return k;	
 	}
 	
 	public void x(){
 		System.out.println("text");
-		try{
-			
-		}
-		catch(Exception ex){
-			
-		}
-		
+		System.out.println("not");
 	}
 	
 }
